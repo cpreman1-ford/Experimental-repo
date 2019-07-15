@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Git hub repo");
         System.out.println("git push");
         System.out.println("from branch");
+        System.out.println("from branch2");
     }
 }
