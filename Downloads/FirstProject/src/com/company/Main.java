@@ -8,5 +8,7 @@ public class Main {
         System.out.println("git push");
         System.out.println("from branch");
         System.out.println("from branch2");
+        System.out.println("from branch3");
+        System.out.println("from branch expm");
     }
 }
