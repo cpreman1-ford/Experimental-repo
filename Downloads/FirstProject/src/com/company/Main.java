@@ -13,5 +13,6 @@ public class Main {
         System.out.println("reset 1");
         System.out.println("reset 2");
         System.out.println("reset 3");
+        System.out.println("reset 4");
     }
 }
