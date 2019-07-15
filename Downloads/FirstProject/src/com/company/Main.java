@@ -10,5 +10,6 @@ public class Main {
         System.out.println("from branch2");
         System.out.println("from branch3");
         System.out.println("from branch expm");
+        System.out.println("reset 1");
     }
 }
